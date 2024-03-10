@@ -64,7 +64,3 @@ static void __exit mouse_screenshot_exit(void) {
 
 module_init(mouse_screenshot_init);
 module_exit(mouse_screenshot_exit);
-
-MODULE_LICENSE("GPL");
-MODULE_DESCRIPTION("ABC");
-MODULE_AUTHOR("XYZ");
