@@ -26,3 +26,6 @@ To unload the module from the kernel, execute:
 ```
 sudo rmmod mouse_screenshot
 ```
+
+## Resources
+Linux Input Subsystem:  [https://www.kernel.org/doc/html/v4.16/driver-api/input.html](https://www.kernel.org/doc/html/v4.16/driver-api/input.html)
